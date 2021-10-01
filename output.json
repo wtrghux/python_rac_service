@@ -1,0 +1,584 @@
+[
+  {
+    "IPv4 Statistics": {
+      "Packets Received": "77663139",
+      "Received Header Errors": "0",
+      "Received Address Errors": "6",
+      "Datagrams Forwarded": "0",
+      "Unknown Protocols Received": "14",
+      "Received Packets Discarded": "85917",
+      "Received Packets Delivered": "77673421",
+      "Output Requests": "43448481",
+      "Routing Discards": "0",
+      "Discarded Output Packets": "3053",
+      "Output Packet No Route": "518",
+      "Reassembly Required": "0",
+      "Reassembly Successful": "0",
+      "Reassembly Failures": "0",
+      "Datagrams Successfully Fragmented": "193",
+      "Datagrams Failing Fragmentation": "0",
+      "Fragments Created": "523"
+    },
+    "IPv6 Statistics": {
+      "Packets Received": "4264196",
+      "Received Header Errors": "0",
+      "Received Address Errors": "48",
+      "Datagrams Forwarded": "0",
+      "Unknown Protocols Received": "1",
+      "Received Packets Discarded": "890",
+      "Received Packets Delivered": "4321710",
+      "Output Requests": "874131",
+      "Routing Discards": "0",
+      "Discarded Output Packets": "180",
+      "Output Packet No Route": "117",
+      "Reassembly Required": "0",
+      "Reassembly Successful": "0",
+      "Reassembly Failures": "0",
+      "Datagrams Successfully Fragmented": "0",
+      "Datagrams Failing Fragmentation": "0",
+      "Fragments Created": "0"
+    },
+    "ICMPv4 Statistics": {
+      "Messages": {
+        "Recieved": "1508",
+        "Sent": "2457"
+      },
+      "Errors": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Destination Unreachable": {
+        "Recieved": "1208",
+        "Sent": "2087"
+      },
+      "Time Exceeded": {
+        "Recieved": "23",
+        "Sent": "0"
+      },
+      "Parameter Problems": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Source Quenches": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Redirects": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Echo Replies": {
+        "Recieved": "269",
+        "Sent": "8"
+      },
+      "Echos": {
+        "Recieved": "8",
+        "Sent": "362"
+      },
+      "Timestamps": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Timestamp Replies": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Address Masks": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Address Mask Replies": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Router Solicitations": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Router Advertisements": {
+        "Recieved": "0",
+        "Sent": "0"
+      }
+    },
+    "ICMPv6 Statistics": {
+      "Messages": {
+        "Recieved": "8202",
+        "Sent": "8374"
+      },
+      "Errors": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Destination Unreachable": {
+        "Recieved": "142",
+        "Sent": "545"
+      },
+      "Packet Too Big": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Time Exceeded": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Parameter Problems": {
+        "Recieved": "0",
+        "Sent": "1"
+      },
+      "Echos": {
+        "Recieved": "0",
+        "Sent": "404"
+      },
+      "Echo Replies": {
+        "Recieved": "293",
+        "Sent": "0"
+      },
+      "MLD Queries": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "MLD Reports": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "MLD Dones": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Router Solicitations": {
+        "Recieved": "0",
+        "Sent": "168"
+      },
+      "Router Advertisements": {
+        "Recieved": "1221",
+        "Sent": "0"
+      },
+      "Neighbor Solicitations": {
+        "Recieved": "4578",
+        "Sent": "2397"
+      },
+      "Neighbor Advertisements": {
+        "Recieved": "1968",
+        "Sent": "4859"
+      },
+      "Redirects": {
+        "Recieved": "0",
+        "Sent": "0"
+      },
+      "Router Renumberings": {
+        "Recieved": "0",
+        "Sent": "0"
+      }
+    },
+    "TCP Statistics for IPv4": {
+      "Active Opens": "40201",
+      "Passive Opens": "1073",
+      "Failed Connection Attempts": "13507",
+      "Reset Connections": "3695",
+      "Current Connections": "34",
+      "Segments Received": "69140813",
+      "Segments Sent": "37495349",
+      "Segments Retransmitted": "0"
+    },
+    "TCP Statistics for IPv6": {
+      "Active Opens": "7203",
+      "Passive Opens": "517",
+      "Failed Connection Attempts": "4694",
+      "Reset Connections": "567",
+      "Current Connections": "0",
+      "Segments Received": "419081",
+      "Segments Sent": "191466",
+      "Segments Retransmitted": "0"
+    },
+    "UDP Statistics for IPv4": {
+      "Datagrams Received": "8910340",
+      "No Ports": "85472",
+      "Receive Errors": "73",
+      "Datagrams Sent": "4390661"
+    },
+    "UDP Statistics for IPv6": {
+      "Datagrams Received": "3921241",
+      "No Ports": "814",
+      "Receive Errors": "0",
+      "Datagrams Sent": "619626"
+    }
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:49152",
+    "Foreign Address": "wtrghux:57265",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:54739",
+    "Foreign Address": "wtrghux:54740",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:54740",
+    "Foreign Address": "wtrghux:54739",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:56730",
+    "Foreign Address": "wtrghux:56731",
+    "State": "TIME_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:56745",
+    "Foreign Address": "wtrghux:56746",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:56746",
+    "Foreign Address": "wtrghux:56745",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "127.0.0.1:57265",
+    "Foreign Address": "wtrghux:49152",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:49678",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:49803",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:49903",
+    "Foreign Address": "79:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:49913",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:50045",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:50315",
+    "Foreign Address": "srv186-129-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:51012",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:52197",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:53103",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:53139",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:53317",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:53470",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:54686",
+    "Foreign Address": "79:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:54792",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:54798",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:55201",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56226",
+    "Foreign Address": "79:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56461",
+    "Foreign Address": "20.54.37.64:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56468",
+    "Foreign Address": "155.133.252.54:27028",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56605",
+    "Foreign Address": "srv131-129-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56721",
+    "Foreign Address": "185.134.201.9:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:56742",
+    "Foreign Address": "40.77.226.250:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:57270",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:57443",
+    "Foreign Address": "srv132-227:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:58155",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:58205",
+    "Foreign Address": "srv2-169-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:59142",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:59593",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:61976",
+    "Foreign Address": "srv167-185-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:62220",
+    "Foreign Address": "srv154-185-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:62310",
+    "Foreign Address": "srv146-185-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:62870",
+    "Foreign Address": "srv137-185-240-87:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:63108",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:63272",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:65405",
+    "Foreign Address": "ec2-34-197-238-1:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "192.168.43.86:65429",
+    "Foreign Address": "ec2-34-225-11-140:https",
+    "State": "CLOSE_WAIT",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:50654",
+    "Foreign Address": "strm-ams01:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:51622",
+    "Foreign Address": "favicon:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:53585",
+    "Foreign Address": "bs:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:54246",
+    "Foreign Address": "bs:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:54702",
+    "Foreign Address": "lu-in-xbc:5228",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:55732",
+    "Foreign Address": "[2606:4700::6812:d26]:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:56073",
+    "Foreign Address": "strm:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:58221",
+    "Foreign Address": "strm-ams01:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:58922",
+    "Foreign Address": "bs:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:59035",
+    "Foreign Address": "bs:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  },
+  {
+    "Proto": "TCP",
+    "Local Address": "[2a00:1fa2:212:7597:949d:8c96:dbe0:ced1]:62203",
+    "Foreign Address": "[2001:6d0:4001::226]:https",
+    "State": "ESTABLISHED",
+    "Offload State": "InHost"
+  }
+]

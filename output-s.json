@@ -1,0 +1,206 @@
+[
+    {
+        "IPv4 Statistics": {
+            "Packets Received": "76811011",
+            "Received Header Errors": "0",
+            "Received Address Errors": "6",
+            "Datagrams Forwarded": "0",
+            "Unknown Protocols Received": "14",
+            "Received Packets Discarded": "83663",
+            "Received Packets Delivered": "76817293",
+            "Output Requests": "42652424",
+            "Routing Discards": "0",
+            "Discarded Output Packets": "3053",
+            "Output Packet No Route": "509",
+            "Reassembly Required": "0",
+            "Reassembly Successful": "0",
+            "Reassembly Failures": "0",
+            "Datagrams Successfully Fragmented": "193",
+            "Datagrams Failing Fragmentation": "0",
+            "Fragments Created": "523"
+        },
+        "IPv6 Statistics": {
+            "Packets Received": "4224295",
+            "Received Header Errors": "0",
+            "Received Address Errors": "48",
+            "Datagrams Forwarded": "0",
+            "Unknown Protocols Received": "1",
+            "Received Packets Discarded": "883",
+            "Received Packets Delivered": "4279433",
+            "Output Requests": "857718",
+            "Routing Discards": "0",
+            "Discarded Output Packets": "180",
+            "Output Packet No Route": "109",
+            "Reassembly Required": "0",
+            "Reassembly Successful": "0",
+            "Reassembly Failures": "0",
+            "Datagrams Successfully Fragmented": "0",
+            "Datagrams Failing Fragmentation": "0",
+            "Fragments Created": "0"
+        },
+        "ICMPv4 Statistics": {
+            "Messages": {
+                "Recieved": "1508",
+                "Sent": "2373"
+            },
+            "Errors": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Destination Unreachable": {
+                "Recieved": "1208",
+                "Sent": "2003"
+            },
+            "Time Exceeded": {
+                "Recieved": "23",
+                "Sent": "0"
+            },
+            "Parameter Problems": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Source Quenches": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Redirects": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Echo Replies": {
+                "Recieved": "269",
+                "Sent": "8"
+            },
+            "Echos": {
+                "Recieved": "8",
+                "Sent": "362"
+            },
+            "Timestamps": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Timestamp Replies": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Address Masks": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Address Mask Replies": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Router Solicitations": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Router Advertisements": {
+                "Recieved": "0",
+                "Sent": "0"
+            }
+        },
+        "ICMPv6 Statistics": {
+            "Messages": {
+                "Recieved": "7542",
+                "Sent": "7741"
+            },
+            "Errors": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Destination Unreachable": {
+                "Recieved": "142",
+                "Sent": "539"
+            },
+            "Packet Too Big": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Time Exceeded": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Parameter Problems": {
+                "Recieved": "0",
+                "Sent": "1"
+            },
+            "Echos": {
+                "Recieved": "0",
+                "Sent": "404"
+            },
+            "Echo Replies": {
+                "Recieved": "293",
+                "Sent": "0"
+            },
+            "MLD Queries": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "MLD Reports": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "MLD Dones": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Router Solicitations": {
+                "Recieved": "0",
+                "Sent": "165"
+            },
+            "Router Advertisements": {
+                "Recieved": "1184",
+                "Sent": "0"
+            },
+            "Neighbor Solicitations": {
+                "Recieved": "3977",
+                "Sent": "2375"
+            },
+            "Neighbor Advertisements": {
+                "Recieved": "1946",
+                "Sent": "4257"
+            },
+            "Redirects": {
+                "Recieved": "0",
+                "Sent": "0"
+            },
+            "Router Renumberings": {
+                "Recieved": "0",
+                "Sent": "0"
+            }
+        },
+        "TCP Statistics for IPv4": {
+            "Active Opens": "37536",
+            "Passive Opens": "1026",
+            "Failed Connection Attempts": "12866",
+            "Reset Connections": "3117",
+            "Current Connections": "45",
+            "Segments Received": "68946293",
+            "Segments Sent": "37406435",
+            "Segments Retransmitted": "0"
+        },
+        "TCP Statistics for IPv6": {
+            "Active Opens": "6957",
+            "Passive Opens": "509",
+            "Failed Connection Attempts": "4676",
+            "Reset Connections": "516",
+            "Current Connections": "5",
+            "Segments Received": "407631",
+            "Segments Sent": "186167",
+            "Segments Retransmitted": "0"
+        },
+        "UDP Statistics for IPv4": {
+            "Datagrams Received": "8204314",
+            "No Ports": "83216",
+            "Receive Errors": "73",
+            "Datagrams Sent": "3708488"
+        },
+        "UDP Statistics for IPv6": {
+            "Datagrams Received": "3891560",
+            "No Ports": "807",
+            "Receive Errors": "0",
+            "Datagrams Sent": "612370"
+        }
+    }
+]

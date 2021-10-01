@@ -1,0 +1,7 @@
+{
+    "command": "netstat",
+    "args": [
+        "-s",
+        "-t"
+    ]
+}

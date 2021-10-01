@@ -1,0 +1,61 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           Offload State
+
+  TCP    127.0.0.1:3000         wtrghux:62783          ESTABLISHED     InHost      
+  TCP    127.0.0.1:49152        wtrghux:62646          ESTABLISHED     InHost      
+  TCP    127.0.0.1:56971        wtrghux:56972          ESTABLISHED     InHost      
+  TCP    127.0.0.1:56972        wtrghux:56971          ESTABLISHED     InHost      
+  TCP    127.0.0.1:62646        wtrghux:49152          ESTABLISHED     InHost      
+  TCP    127.0.0.1:62783        wtrghux:3000           ESTABLISHED     InHost      
+  TCP    127.0.0.1:64539        wtrghux:64540          ESTABLISHED     InHost      
+  TCP    127.0.0.1:64540        wtrghux:64539          ESTABLISHED     InHost      
+  TCP    192.168.1.156:49160    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:49162    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:50650    lo-in-f188:5228        ESTABLISHED     InHost      
+  TCP    192.168.1.156:50697    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:50804    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:50995    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:51214    ec2-34-197-238-1:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:52164    srv186-129-240-87:https  ESTABLISHED     InHost      
+  TCP    192.168.1.156:53543    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:53550    192.168.1.198:8008     ESTABLISHED     InHost      
+  TCP    192.168.1.156:54104    ec2-34-225-11-140:https  CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:55230    20.54.37.64:https      ESTABLISHED     InHost      
+  TCP    192.168.1.156:55701    185.134.201.8:https    ESTABLISHED     InHost      
+  TCP    192.168.1.156:55702    80.68.79.42:http       TIME_WAIT       InHost      
+  TCP    192.168.1.156:55703    80.68.79.42:http       TIME_WAIT       InHost      
+  TCP    192.168.1.156:55704    162-254-198-17:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:56832    yandex:https           ESTABLISHED     InHost      
+  TCP    192.168.1.156:56992    145:https              CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:57422    93.184.220.29:http     CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:57423    152.199.19.161:https   CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:57426    152.199.19.161:https   CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:58107    79:https               CLOSE_WAIT      InHost      
+  TCP    192.168.1.156:59691    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59692    162.254.197.3:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59693    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59694    162.254.197.3:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59695    162.254.197.3:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59696    162.254.197.3:http     TIME_WAIT       InHost      
+  TCP    192.168.1.156:59697    162.254.197.3:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59698    162.254.197.3:http     TIME_WAIT       InHost      
+  TCP    192.168.1.156:59699    162.254.197.3:http     TIME_WAIT       InHost      
+  TCP    192.168.1.156:59700    162.254.197.3:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59701    162.254.197.19:http    FIN_WAIT_1      InHost      
+  TCP    192.168.1.156:59702    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59703    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59704    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59705    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59706    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59707    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59708    162.254.197.19:http    ESTABLISHED     InHost      
+  TCP    192.168.1.156:59709    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59710    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59711    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59712    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59713    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59714    162.254.197.6:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59716    162.254.197.5:http     ESTABLISHED     InHost      
+  TCP    192.168.1.156:59717    162.254.197.5:http     ESTABLISHED     InHost      
