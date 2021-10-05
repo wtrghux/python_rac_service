@@ -25,13 +25,36 @@ def main(mode, cmd, opts=None):
     return {key: value for key, value in zip(keys, values)}
 
 
-@app.route("/", methods=["GET"])
+@app.route("/", methods=["GET", "POST"])
 def output():
-    mode = request.args.get("mode")
+    help = """
+    PLEASE USE POST REQUEST!
+    Fields:
+    mode=%%mode_name%%
+    command=%%command_name%%
+    options=%%list_of_options%% (may be empty)
+
+    Example:
+    curl -X POST -H "Content-Type: application/json"
+    -d '{"mode": "cluster", "command": "list"}'
+    https://127.0.0.1:3000/
+    """
+
+    if request.method != "POST":
+        return help
+
+    request_data = request.get_json()
+    mode = request_data["mode"]
     if not mode or mode == "":
-        return "Error: Invalid Parameters"
-    command = request.args.get("command")
-    options = request.args.get("options")
+        return "Error: Invalid Mode"
+    if "command" in request_data.keys():
+        command = request_data["command"]
+    else:
+        return "Error: Invalid Command"
+    if "options" in request_data.keys():
+        options = request_data["options"]
+    else:
+        options = None
 
     return jsonify(main(mode, command, options))
 
